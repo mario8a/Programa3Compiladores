@@ -54,6 +54,10 @@ public class Programa3Compiladores {
   ////////CODIGO SIN LEER FICHERO////////////////////////////
   
   
+  /////// Por simplicidad, la frase no se lee de un fichero,  
+        // sino que se lee de teclado como un String de Palabras 
+  
+  
   		//Creamos un objeto de la clase Scanner para leer por teclado
 		Scanner miScanner = new Scanner(System.in);
  
